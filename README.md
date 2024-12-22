@@ -69,7 +69,8 @@ The system was evaluated on the **DUC-2004 dataset** using ROUGE metrics:
 
 The Pareto front demonstrates the trade-offs between coverage and redundancy across multiple generations:
 
-![Pareto Front](path/to/pareto_front_image.png)
+![Test1](https://github.com/amandeep-yadav/Multi-object-Optimization-of-ETS/blob/main/img/test1.PNG)
+![Test2](https://github.com/amandeep-yadav/Multi-object-Optimization-of-ETS/blob/main/img/test2.PNG)
 
 ---
 
